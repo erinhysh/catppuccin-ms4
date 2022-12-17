@@ -18,8 +18,12 @@
 		<td><img src="circles\mocha\mocha_rosewater.png" height="23" width="23"/></td>
 		<td>Rosewater</td>
 		<td><code>#dc8a78</code></td>
-		<td><code>rgb(220, 138, 120)</code></td>
-		<td><code>hsl(11, 59%, 67%)</code></td>
+	</tr>
+	</tr>
+    <tr>
+		<td><img src="circles\mocha\mocha_flamingo.png" height="23" width="23"/></td>
+		<td>Flamingo</td>
+		<td><code>#dc8a78</code></td>
 	</tr>
 </table>
 </details>
