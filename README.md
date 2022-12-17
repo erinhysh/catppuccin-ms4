@@ -307,7 +307,7 @@ based off <a href="https://github.com/catppuccin/catppuccin">Catppuccin</a>
 
 ## 🙋 FAQ
 
--	Q: **_"What happens if I want to change certain colors myself"_**\
+-	Q: **_"What if I want to change certain colors myself"_**\
 	A: You can change the colors on the .ini file by changing what you want on certain parts
 
 	Color : accentColor, linkColor\
