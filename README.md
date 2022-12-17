@@ -91,7 +91,7 @@ based off <a href="https://github.com/catppuccin/catppuccin">Catppuccin</a>
 
 <details>
 	<summary>🪴 Frappé</summary>
-		<img src="themes\Frappe.png"/>
+		<img src="themes\frappe.png"/>
 	<table>
 		<tr>
 			<th></th>
