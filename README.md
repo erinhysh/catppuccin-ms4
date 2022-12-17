@@ -7,7 +7,7 @@ A catppuccin theme for Musescore4 based off the <a href="https://github.com/catp
 3. Choose theme (Latte)
 <details>
 <summary>🌿 Mocha</summary>
-<img src="mocha.png"/>
+<img src="Mocha.png" height="100"/>
 <table>
 	<tr>
 		<th></th>
@@ -15,7 +15,7 @@ A catppuccin theme for Musescore4 based off the <a href="https://github.com/catp
 		<th>Code</th>
 	</tr>
     <tr>
-		<td><img src="circles/mocha_rosewater.png" height="23" width="23"/></td>
+		<td><img src="circles\mocha\mocha_rosewater.png" height="23" width="23"/></td>
 		<td>Rosewater</td>
 		<td><code>#dc8a78</code></td>
 		<td><code>rgb(220, 138, 120)</code></td>
