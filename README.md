@@ -34,6 +34,59 @@ based off <a href="https://github.com/catppuccin/catppuccin">Catppuccin</a>
 			<td><img src="circles\latte\latte_rosewater.png" height="23" width="23" /></td>
 			<td><code><a href="theme-code\latte\rosewater.md">Rose water</a></code></td>
 		</tr>
+		<tr>
+			<td><img src="circles\latte\latte_flamingo.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\latte\flamingo.md">Flamingo</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\latte\latte_pink.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\latte\pink.md">Pink</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\latte\latte_mauve.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\latte\mauve.md">Mauve</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\latte\latte_red.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\latte\red.md">Red</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\latte\latte_maroon.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\latte\maroon.md">Maroon</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\latte\latte_peach.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\latte\peach.md">Peach</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\latte\latte_yellow.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\latte\yellow.md">Yellow</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\latte\latte_green.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\latte\green.md">Green</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\latte\latte_teal.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\latte\teal.md">Teal</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\latte\latte_sky.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\latte\sky.md">Sky</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\latte\latte_sapphire.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\latte\sapphire.md">Sapphire</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\latte\latte_ble.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\latte\blue.md">Blue</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\latte\latte_lavender.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\latte\lavender.md">Lavender</a></code></td>
+		</tr>
+	</table>
 </details>
 
 <details>
