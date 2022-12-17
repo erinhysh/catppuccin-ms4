@@ -1,5 +1,5 @@
 # catppuccin-ms4
-A catppuccin theme for Musescore4 based off the <a href="https://github.com/catppuccin/catppuccin/">catppuccin theme</a>
+ A catppuccin theme for Musescore4
 
 **note : direction only for Windows because I do not know how Mac / Linux Works**
 1. Press <code>windows + r</code> and insert <code>%appdata%</code> and press OK
