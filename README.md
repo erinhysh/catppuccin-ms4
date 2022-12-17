@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/preview.webp"/>
+	<img src="themes\Main.png"/>
 </p>
 
 A soothing pastel theme for Musescore4
@@ -79,7 +79,7 @@ based off <a href="https://github.com/catppuccin/catppuccin">Catppuccin</a>
 			<td><code><a href="theme-code\latte\sapphire.md">Sapphire</a></code></td>
 		</tr>
 		<tr>
-			<td><img src="circles\latte\latte_ble.png" height="23" width="23" /></td>
+			<td><img src="circles\latte\latte_blue.png" height="23" width="23" /></td>
 			<td><code><a href="theme-code\latte\blue.md">Blue</a></code></td>
 		</tr>
 		<tr>
