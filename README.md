@@ -29,6 +29,72 @@ based off <a href="https://github.com/catppuccin/catppuccin">Catppuccin</a>
 <details>
 	<summary>🪴 Frappé</summary>
 		<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/frappe.webp"/>
+	<table>
+		<tr>
+			<th></th>
+			<th>Accent</th>
+		</tr>
+		<tr>
+			<td><img src="circles\frappe\frappe_rosewater.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\frappe\rosewater.md">Rose water</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\frappe\frappe_flamingo.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\frappe\flamingo.md">Flamingo</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\frappe\frappe_pink.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\frappe\pink.md">Pink</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\frappe\frappe_mauve.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\frappe\mauve.md">Mauve</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\frappe\frappe_red.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\frappe\red.md">Red</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\frappe\frappe_maroon.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\frappe\maroon.md">Maroon</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\frappe\frappe_peach.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\frappe\peach.md">Peach</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\frappe\frappe_yellow.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\frappe\yellow.md">Yellow</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\frappe\frappe_green.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\frappe\green.md">Green</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\frappe\frappe_teal.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\frappe\teal.md">Teal</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\frappe\frappe_sky.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\frappe\sky.md">Sky</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\frappe\frappe_sapphire.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\frappe\sapphire.md">Sapphire</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\frappe\frappe_blue.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\frappe\blue.md">Blue</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\frappe\frappe_blue.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\frappe\blue.md">Blue</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\frappe\frappe_lavender.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\frappe\lavender.md">Lavender</a></code></td>
+		</tr>
+	</table>
 </details>
 
 <details>
