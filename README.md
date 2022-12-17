@@ -28,7 +28,7 @@ based off <a href="https://github.com/catppuccin/catppuccin">Catppuccin</a>
 
 <details>
 	<summary>🪴 Frappé</summary>
-		<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/frappe.webp"/>
+		<img src="themes\frappe.png"/>
 	<table>
 		<tr>
 			<th></th>
