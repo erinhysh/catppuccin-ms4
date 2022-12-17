@@ -43,6 +43,58 @@ based off <a href="https://github.com/catppuccin/catppuccin">Catppuccin</a>
 			<td><img src="circles\macchiato\macchiato_rosewater.png" height="23" width="23" /></td>
 			<td><code><a href="theme-code\macchiato\rosewater.md">Rose water</a></code></td>
 		</tr>
+		<tr>
+			<td><img src="circles\macchiato\macchiato_flamingo.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\macchiato\flamingo.md">Flamingo</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\macchiato\macchiato_pink.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\macchiato\pink.md">Pink</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\macchiato\macchiato_mauve.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\macchiato\mauve.md">Mauve</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\macchiato\macchiato_red.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\macchiato\red.md">Red</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\macchiato\macchiato_maroon.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\macchiato\maroon.md">Maroon</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\macchiato\macchiato_peach.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\macchiato\peach.md">Peach</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\macchiato\macchiato_yellow.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\macchiato\yellow.md">Yellow</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\macchiato\macchiato_green.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\macchiato\green.md">Green</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\macchiato\macchiato_teal.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\macchiato\teal.md">Teal</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\macchiato\macchiato_sky.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\macchiato\sky.md">Sky</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\macchiato\macchiato_sapphire.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\macchiato\sapphire.md">Sapphire</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\macchiato\macchiato_blue.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\macchiato\blue.md">Blue</a></code></td>
+		</tr>
+		<tr>
+			<td><img src="circles\macchiato\macchiato_lavender.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\macchiato\lavender.md">Lavender</a></code></td>
+		</tr>
 	</table>
 </details>
 
