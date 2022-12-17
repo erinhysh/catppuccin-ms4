@@ -21,7 +21,7 @@
     <tr>
 		<td><img src="circles\mocha\mocha_rosewater.png" height="23" width="23"/></td>
 		<td>Rosewater</td>
-		<td><code>[Rose Water](theme-code\mocha\rosewater.md)</code></td>
+		<td><code><a href="theme-code\mocha\rosewater.md"></a></code></td>
 	</tr>
 	</tr>
     <tr>
