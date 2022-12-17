@@ -1,7 +1,8 @@
 # catppuccin-ms4
- A catppuccin theme for Musescore4
+ A soothing pastel theme for Musescore4 
+ based off <a href="https://github.com/catppuccin/catppuccin">Catppuccin</a>
 
-**note : direction only for Windows because I do not know how Mac / Linux Works**
+**note : direction only for Windows**
 1. Press <code>windows + r</code> and insert <code>%appdata%</code> and press OK
 2. Go to <code>AppData/roaming/Musescore4/MuseScore4.ini</code>
 3. Choose theme (Latte / Frappe / Macchiato / Mocha) and accent colors
@@ -16,28 +17,15 @@
 	<tr>
 		<th></th>
 		<th>Accent</th>
-		<th>Code</th>
 	</tr>
     <tr>
 		<td><img src="circles\mocha\mocha_rosewater.png" height="23" width="23"/></td>
-		<td>Rosewater</td>
-		<td><code><a href="theme-code\mocha\rosewater.md"></a></code></td>
-	</tr>
+		<td><code><a href="theme-code\mocha\rosewater.md">Rose water</a></code></td>
 	</tr>
     <tr>
 		<td><img src="circles\mocha\mocha_flamingo.png" height="23" width="23"/></td>
-		<td>Flamingo</td>
-		<td><code>#dc8a78</code></td>
+		<td><code><a href="theme-code\mocha\flamingo.md">Rose water</a></code></td>
 	</tr>
-    <tr>
-		<td><img src="circles\mocha\mocha_pink.png" height="23" width="23"/></td>
-		<td>Pink</td>
-		<td><code>#dc8a78</code></td>
-	</tr>
-    <tr>
-		<td><img src="circles\mocha\mocha_mauve.png" height="23" width="23"/></td>
-		<td>Mauve</td>
-		<td><code>#dc8a78</code></td>
-	</tr>
+
 </table>
 </details>
