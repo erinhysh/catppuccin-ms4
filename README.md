@@ -316,8 +316,12 @@ based off <a href="https://github.com/catppuccin/catppuccin">Catppuccin</a>
 	-> backgroundSecondaryColor, buttonColor, popupBackgroundColor (Surface0)\
 	-> fontPrimaryColor, fontSecondaryColor (Text)
 
--	Q: **_"Wil; the colors change back to default everytime you open Musescore4 in in general?"_**\
-	A: No it will not (not sure about updates yet for now)
+-	Q: **_"Will the colors change back to default everytime you open Musescore4 in in general?"_**\
+	A: No it will not (not sure about updates yet for now) unless you reset your entire preferences
+
+-	Q: **_"The colors did not change at all"_**\
+	A: Try copying the code from the raw preview of the chosen accent and theme and make sure the code looks the same as how you openned it spacing wise
+	
 ## 💝 Thanks to
 
 - [Ren](https://github.com/watatomo)
