@@ -75,7 +75,7 @@ based off <a href="https://github.com/catppuccin/catppuccin">Catppuccin</a>
 			<td><code><a href="theme-code\mocha\red.md">Red</a></code></td>
 		</tr>
 		<tr>
-			<td><img src="circles\mocha\mocha_marooon.png" height="23" width="23" /></td>
+			<td><img src="circles\mocha\mocha_maroon.png" height="23" width="23" /></td>
 			<td><code><a href="theme-code\mocha\maroon.md">Maroon</a></code></td>
 		</tr>
 		<tr>
