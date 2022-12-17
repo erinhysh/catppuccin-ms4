@@ -28,6 +28,7 @@ based off <a href="https://github.com/catppuccin/catppuccin">Catppuccin</a>
 
 <details>
 	<summary>🌻 Latte</summary>
+</details>
 <details>
 	<summary>🪴 Frappé</summary>
 		<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/frappe.webp"/>
