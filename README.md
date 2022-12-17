@@ -25,17 +25,30 @@ based off <a href="https://github.com/catppuccin/catppuccin">Catppuccin</a>
 <details>
 	<summary>🌻 Latte</summary>
 </details>
+
 <details>
 	<summary>🪴 Frappé</summary>
 		<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/frappe.webp"/>
 </details>
+
 <details>
 	<summary>🌺 Macchiato</summary>
-		<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/macchiato.webp"/>
+		<img src="themes\Macchiato.png" height="500"/>
+	<table>
+		<tr>
+			<th></th>
+			<th>Accent</th>
+		</tr>
+		<tr>
+			<td><img src="circles\macchiato\macchiato_rosewater.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\macchiato\rosewater.md">Rose water</a></code></td>
+		</tr>
+	</table>
 </details>
+
 <details>
 	<summary>🌿 Mocha</summary>
-		<img src="themes\Mocha.png" height="500" />
+		<img src="themes\Mocha.png" height="500"/>
 	<table>
 		<tr>
 			<th></th>
