@@ -24,11 +24,21 @@ based off <a href="https://github.com/catppuccin/catppuccin">Catppuccin</a>
 
 <details>
 	<summary>🌻 Latte</summary>
+		<img src="themes\Latte.png"/>
+	<table>
+		<tr>
+			<th></th>
+			<th>Accent</th>
+		</tr>
+		<tr>
+			<td><img src="circles\latte\latte_rosewater.png" height="23" width="23" /></td>
+			<td><code><a href="theme-code\latte\rosewater.md">Rose water</a></code></td>
+		</tr>
 </details>
 
 <details>
 	<summary>🪴 Frappé</summary>
-		<img src="themes\frappe.png"/>
+		<img src="themes\Frappe.png"/>
 	<table>
 		<tr>
 			<th></th>
