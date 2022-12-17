@@ -7,7 +7,7 @@
 3. Choose theme (Latte / Frappe / Macchiato / Mocha)
 <details>
 <summary>🌿 Mocha</summary>
-<img src="Mocha.png" height="500"/>
+<img src="themes\Mocha.png" height="500"/>
 <table>
 	<tr>
 		<th></th>
