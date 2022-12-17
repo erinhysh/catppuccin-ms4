@@ -21,13 +21,23 @@
     <tr>
 		<td><img src="circles\mocha\mocha_rosewater.png" height="23" width="23"/></td>
 		<td>Rosewater</td>
-		<td><code>application\themes="[{\"\":\"Dark\",\"accentColor\":\"#f38ba8\",\"accentOpacityHit\":0.7,\"accentOpacityHover\":0.3,\"accentOpacityNormal\":0.5,\"backgroundPrimaryColor\":\"#1e1e2e\",\"backgroundSecondaryColor\":\"#313244\",\"borderWidth\":0,\"buttonColor\":\"#313244\",\"buttonOpacityHit\":1,\"buttonOpacityHover\":0.5,\"buttonOpacityNormal\":0.7,\"codeKey\":\"dark\",\"focusColor\":\"#1e1e2e\",\"fontPrimaryColor\":\"#cdd6f4\",\"fontSecondaryColor\":\"#cdd6f4\",\"itemOpacityDisabled\":0.3,\"linkColor\":\"#eba0ac\",\"navigationControlBorderWidth\":2,\"popupBackgroundColor\":\"#313244\",\"strokeColor\":\"#1E1E1E\",\"textFieldColor\":\"#313244\",\"title\":\"Dark\"},{\"\":\"Light\",\"accentColor\":\"#a09eef\",\"accentOpacityHit\":0.7,\"accentOpacityHover\":0.3,\"accentOpacityNormal\":0.5,\"backgroundPrimaryColor\":\"#F5F5F6\",\"backgroundSecondaryColor\":\"#E6E9ED\",\"borderWidth\":0,\"buttonColor\":\"#CFD5DD\",\"buttonOpacityHit\":1,\"buttonOpacityHover\":0.5,\"buttonOpacityNormal\":0.7,\"codeKey\":\"light\",\"focusColor\":\"#75507b\",\"fontPrimaryColor\":\"#111132\",\"fontSecondaryColor\":\"#FFFFFF\",\"itemOpacityDisabled\":0.3,\"linkColor\":\"#0B69BF\",\"navigationControlBorderWidth\":2,\"popupBackgroundColor\":\"#F5F5F6\",\"strokeColor\":\"#CED1D4\",\"textFieldColor\":\"#FFFFFF\",\"title\":\"Light\"}]"
+		<td><code>application\themes="[{\"\":\"Dark\",\"accentColor\":\"#f5e0dc\",\"accentOpacityHit\":0.7,\"accentOpacityHover\":0.3,\"accentOpacityNormal\":0.5,\"backgroundPrimaryColor\":\"#1e1e2e\",\"backgroundSecondaryColor\":\"#313244\",\"borderWidth\":0,\"buttonColor\":\"#313244\",\"buttonOpacityHit\":1,\"buttonOpacityHover\":0.5,\"buttonOpacityNormal\":0.7,\"codeKey\":\"dark\",\"focusColor\":\"#1e1e2e\",\"fontPrimaryColor\":\"#cdd6f4\",\"fontSecondaryColor\":\"#cdd6f4\",\"itemOpacityDisabled\":0.3,\"linkColor\":\"#f5e0dc\",\"navigationControlBorderWidth\":2,\"popupBackgroundColor\":\"#313244\",\"strokeColor\":\"#1E1E1E\",\"textFieldColor\":\"#313244\",\"title\":\"Dark\"},{\"\":\"Light\",\"accentColor\":\"#a09eef\",\"accentOpacityHit\":0.7,\"accentOpacityHover\":0.3,\"accentOpacityNormal\":0.5,\"backgroundPrimaryColor\":\"#F5F5F6\",\"backgroundSecondaryColor\":\"#E6E9ED\",\"borderWidth\":0,\"buttonColor\":\"#CFD5DD\",\"buttonOpacityHit\":1,\"buttonOpacityHover\":0.5,\"buttonOpacityNormal\":0.7,\"codeKey\":\"light\",\"focusColor\":\"#75507b\",\"fontPrimaryColor\":\"#111132\",\"fontSecondaryColor\":\"#FFFFFF\",\"itemOpacityDisabled\":0.3,\"linkColor\":\"#0B69BF\",\"navigationControlBorderWidth\":2,\"popupBackgroundColor\":\"#F5F5F6\",\"strokeColor\":\"#CED1D4\",\"textFieldColor\":\"#FFFFFF\",\"title\":\"Light\"}]"
 </code></td>
 	</tr>
 	</tr>
     <tr>
 		<td><img src="circles\mocha\mocha_flamingo.png" height="23" width="23"/></td>
 		<td>Flamingo</td>
+		<td><code>#dc8a78</code></td>
+	</tr>
+    <tr>
+		<td><img src="circles\mocha\mocha_pink.png" height="23" width="23"/></td>
+		<td>Pink</td>
+		<td><code>#dc8a78</code></td>
+	</tr>
+    <tr>
+		<td><img src="circles\mocha\mocha_mauve.png" height="23" width="23"/></td>
+		<td>Mauve</td>
 		<td><code>#dc8a78</code></td>
 	</tr>
 </table>
