@@ -4,10 +4,10 @@ A catppuccin theme for Musescore4 based off the <a href="https://github.com/catp
 **note : direction only for Windows because I do not know how Mac / Linux Works**
 1. Press <code>windows + r</code> and insert <code>%appdata%</code> and press OK
 2. Go to <code>AppData/roaming/Musescore4/MuseScore4.ini</code>
-3. Choose theme (Latte)
+3. Choose theme (Latte / Frappe / Macchiato / Mocha)
 <details>
 <summary>🌿 Mocha</summary>
-<img src="Mocha.png" height="100"/>
+<img src="Mocha.png" height="500"/>
 <table>
 	<tr>
 		<th></th>
