@@ -1,5 +1,3 @@
-# catppuccin-ms4
-
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
@@ -307,10 +305,10 @@ based off <a href="https://github.com/catppuccin/catppuccin">Catppuccin</a>
 
 (if an update happens you might need to redo these things but it's relatively simple)
 
-## 🙋 FAQ (optional)
+## 🙋 FAQ
 
 -	Q: **_"What happens if I want to change certain colors myself"_**\
-	A: You can change the colors on the .ini file by changing what you want on certain parts\
+	A: You can change the colors on the .ini file by changing what you want on certain parts
 
 	Color : accentColor, linkColor\
 	Theme : \
@@ -318,9 +316,12 @@ based off <a href="https://github.com/catppuccin/catppuccin">Catppuccin</a>
 	-> backgroundSecondaryColor, buttonColor, popupBackgroundColor (Surface0)\
 	-> fontPrimaryColor, fontSecondaryColor (Text)
 
+-	Q: **_"Wil; the colors change back to default everytime you open Musescore4 in in general?"_**\
+	A: No it will not (not sure about updates yet for now)
 ## 💝 Thanks to
 
-- tba
+- [Ren](https://github.com/watatomo)
+- [Hamothy](https://github.com/sgoudham)
 
 &nbsp;
 
